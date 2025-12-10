@@ -18,5 +18,3 @@
 
  ## Project Pitch Video
  
- Check out https://www.loom.com/share/2c8e85a4560340e59be003469d0a5f06 where I describe my 
- project and some challenges I faced while building it.
