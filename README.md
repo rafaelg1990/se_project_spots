@@ -15,4 +15,3 @@
 -HTML
 -CSS
 -Responsive Design
-git pish
