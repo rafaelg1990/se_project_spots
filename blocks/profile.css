@@ -80,6 +80,7 @@
   justify-content: center;
   align-self: self-end;
   cursor: pointer;
+  border-bottom: 0;
 }
 
 .profile__add-button:hover {
