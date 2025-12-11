@@ -2,7 +2,7 @@
   background-color: #fcf5e5;
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 400;
-  min-width: 100vw;
+  min-width: 100%;
   margin: 0 auto;
   min-height: 100vh;
 }

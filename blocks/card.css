@@ -51,6 +51,7 @@
   }
 
   .card__title {
+    max-width: 235px;
     font-family: Poppins;
     font-weight: 500;
     font-style: medium;
